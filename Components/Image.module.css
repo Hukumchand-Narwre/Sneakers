@@ -1,0 +1,16 @@
+.big-image {
+  height: 20rem;
+  width: 20rem;
+  border-radius: 6px;
+}
+
+.container-for-all-small-img {
+  margin-top: 2rem;
+}
+.container-for-all-small-img > *:first-child {
+  margin-left: 0.2rem;
+}
+
+.active {
+  border: 4px solid hsl(26, 100%, 55%);
+}

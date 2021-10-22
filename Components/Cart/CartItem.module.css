@@ -1,0 +1,51 @@
+.main-container {
+  padding: 1.3rem;
+}
+
+.cartitem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+h1 h2 h3 h4 p {
+  margin: 0;
+  padding: 0;
+}
+.cartitem img {
+  height: 3rem;
+  width: 3rem;
+  margin-right: 0.6rem;
+}
+
+.cartitem p {
+  text-align: center;
+}
+
+.summary {
+  width: 10rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price {
+  font-weight: bold;
+  color: #8a2b06;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+}
+
+.amount {
+  font-weight: bold;
+  border: 1px solid #ccc;
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  color: #363636;
+  font-size: 0.8rem;
+}
+
+.cartitem h4 {
+  margin-bottom: 0.6rem;
+  margin-top: 0.6rem;
+  color: #b6bcc8;
+}

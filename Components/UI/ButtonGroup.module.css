@@ -1,0 +1,16 @@
+.MuiSlider-root {
+  color: #ff7d1a;
+  font-weight: 800;
+}
+
+@media (max-width: 760px) {
+  .mobile-width-for-group-button {
+    width: 93%;
+    padding: 1rem;
+    padding-right: 0;
+    transform: translateX(10px);
+  }
+  .individual-width-for-group-button {
+    width: 30%;
+  }
+}

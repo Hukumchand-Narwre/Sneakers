@@ -1,0 +1,16 @@
+.list {
+  list-style: none;
+  margin-left: -1.2rem;
+  margin-top: 1rem;
+}
+
+.list li {
+  margin-bottom: 1rem;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  margin-bottom: 0.5rem;
+}
